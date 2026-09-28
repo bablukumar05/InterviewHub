@@ -1,0 +1,22 @@
+const QUESTION_TYPES = [
+  "TECHNICAL",
+  "CODING",
+  "SYSTEM_DESIGN",
+  "BEHAVIORAL",
+  "HR",
+  "SCENARIO",
+  "CONCEPTUAL",
+  "CASE_STUDY",
+];
+
+const QUESTION_DIFFICULTIES = [
+  "EASY",
+  "MEDIUM",
+  "HARD",
+  "EXPERT",
+];
+
+module.exports = {
+  QUESTION_TYPES,
+  QUESTION_DIFFICULTIES,
+};
